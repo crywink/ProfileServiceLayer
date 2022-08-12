@@ -1,2 +1,6 @@
 # ProfileServiceLayer
-Small drag-n-drop abstraction library for ProfileService used in my projects.
+ProfileServiceLayer is a small, promise-based abstraction library for ProfileService. It's used in most of my projects due to it's ease-of-use and small API. It also uses promise to let you fetch profiles before they've been loaded and await them.
+
+- Promise-based
+- Supports multiple profiles
+- Supports profile awaiting
